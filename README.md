@@ -3,3 +3,4 @@ This repo is dedicated to study the CSS Grid layout
 
 # About
 
+# License
